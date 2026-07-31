@@ -1,7 +1,19 @@
 aid: natix
 name: NATIX
-description: NATIX is a company surfaced as a portfolio company of techstars and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  NATIX Network is a decentralized physical infrastructure (DePIN) network
+  building what it calls the world's largest on-street camera network to power
+  Physical AI, autonomous driving, and real-time mapping. Drivers use the Drive&
+  smartphone app and the VX360 plug-and-earn smart camera for Tesla to collect,
+  validate, anonymize, and monetize multi-camera dashcam footage, earning $NATIX
+  token rewards. NATIX packages the resulting data into training datasets, edge
+  cases, and OpenScenario/OpenDrive simulation scenarios for AI and mapping
+  customers, and runs an on-chain token economy with staking, governance, and
+  xNodes. As of 2026 it reports 2.89M+ registered drivers and coverage across 33
+  countries. It was added to the API Evangelist network as a Techstars portfolio
+  company; enrichment confirms NATIX publishes no public REST/GraphQL developer
+  API — the surface is consumer apps, an on-chain token, and a proprietary
+  partner Vision SDK.
 url: https://raw.githubusercontent.com/api-evangelist/natix/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +21,31 @@ x-backed-by:
 - techstars
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/65ae82ef7e37a0d48a19fd64/6a0415e2d5c945f8cebb5a77_meta%20image%20homepage%20natix.webp
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- DePIN
+- Mapping
+- Autonomous Driving
+- Physical AI
+- Geospatial
+- Computer Vision
+- Web3
+- Data
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +55,38 @@ maintainers:
 common:
 - type: Website
   url: https://natix.network/
+- type: Documentation
+  url: https://docs.natix.network/
+- type: Whitepaper
+  url: https://docs.natix.network/whitepaper/
+- type: Blog
+  url: https://natix.network/blog
+- type: GitHubOrganization
+  url: https://github.com/natixnetwork
+- type: PrivacyPolicy
+  url: https://docs.natix.network/policies/privacy-policy-app
+- type: TermsOfService
+  url: https://docs.natix.network/policies/staking-terms
+- type: Support
+  url: https://discord.gg/natixnetwork
+- type: SignUp
+  url: https://staking.natix.network/
+- type: Twitter
+  url: https://twitter.com/NATIXNetwork
+- type: Discord
+  url: https://discord.gg/natixnetwork
+- type: Telegram
+  url: https://t.me/NATIXNetwork
+- type: YouTube
+  url: https://www.youtube.com/@natixnetwork
+- type: LinkedIn
+  url: https://www.linkedin.com/company/natixnetwork/
+- type: LLMsTxt
+  url: llms/natix-llms.txt
+- type: DomainSecurity
+  url: security/natix-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1

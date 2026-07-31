@@ -1,0 +1,52 @@
+# NATIX Network
+
+> NATIX Network is a decentralized physical infrastructure (DePIN) network building the world's largest on-street camera network to power Physical AI, autonomous driving, and real-time mapping. Drivers collect, validate, and monetize privacy-preserved dashcam footage via the Drive& app and VX360 smart-camera device, earning $NATIX token rewards.
+
+Source: https://docs.natix.network/llms.txt (searched verbatim, 2026-07-20). Docs are a GitBook whitepaper; each page has a `.md` version and a `llms-full.txt` export. NATIX publishes no public REST/GraphQL developer API.
+
+## Whitepaper
+
+- [Executive Summary](https://docs.natix.network/whitepaper/executive-summary.md)
+- [Introduction](https://docs.natix.network/whitepaper/introduction.md)
+- [Problem](https://docs.natix.network/whitepaper/problem.md)
+- [The Solution: NATIX Network](https://docs.natix.network/whitepaper/the-solution-natix-network.md)
+- [Market Entry Products](https://docs.natix.network/whitepaper/market-entry-products.md)
+- [The Smartphone Strategy](https://docs.natix.network/whitepaper/market-entry-products/the-smartphone-strategy.md)
+- [NATIX Drive&](https://docs.natix.network/whitepaper/market-entry-products/natix-drive-and.md)
+- [NATIX-enabled Smart Cameras](https://docs.natix.network/whitepaper/market-entry-products/natix-enabled-smart-cameras.md)
+- [NATIX Map Interface](https://docs.natix.network/whitepaper/market-entry-products/natix-map-interface.md)
+
+## NATIX Economy
+
+- [NATIX Economy](https://docs.natix.network/whitepaper/natix-economy.md)
+- [NATIX Economy Summary](https://docs.natix.network/whitepaper/natix-economy/natix-economy-summary.md)
+- [NATIX Token Distribution](https://docs.natix.network/whitepaper/natix-economy/natix-token-distribution.md)
+- [Rewards for NATIX Network Participants](https://docs.natix.network/whitepaper/natix-economy/rewards-for-natix-network-participants.md)
+- [NATIX Economy Break Down](https://docs.natix.network/whitepaper/natix-economy/natix-economy-break-down.md)
+- [On-Chain $NATIX Token](https://docs.natix.network/whitepaper/natix-economy/natix-economy-break-down/on-chain-usdnatix-token.md)
+- [In-App NATIX](https://docs.natix.network/whitepaper/natix-economy/natix-economy-break-down/in-app-natix.md)
+- [Staking and network participation](https://docs.natix.network/whitepaper/natix-economy/natix-economy-break-down/staking-and-network-participation.md)
+- [Governance](https://docs.natix.network/whitepaper/natix-economy/natix-economy-break-down/governance.md)
+- [xNodes](https://docs.natix.network/whitepaper/natix-economy/natix-economy-break-down/xnodes.md)
+- [Data Monetization and Value Accrual](https://docs.natix.network/whitepaper/natix-economy/natix-economy-break-down/data-monetization-and-value-accrual.md)
+- [iLand](https://docs.natix.network/whitepaper/natix-economy/natix-economy-break-down/iland.md)
+
+## Ecosystem
+
+- [NATIX Network Ecosystem](https://docs.natix.network/whitepaper/natix-network-ecosystem.md)
+- [Privacy-compliant Metadata Mining](https://docs.natix.network/whitepaper/natix-network-ecosystem/privacy-compliant-metadata-mining.md)
+- [System Overview](https://docs.natix.network/whitepaper/natix-network-ecosystem/system-overview.md)
+- [Real-time Geospatial Data](https://docs.natix.network/whitepaper/natix-network-ecosystem/real-time-geospatial-data.md)
+- [Data Validation](https://docs.natix.network/whitepaper/natix-network-ecosystem/data-validation.md)
+- [Network Infrastructure Setup](https://docs.natix.network/whitepaper/natix-network-ecosystem/network-infrastructure-setup.md)
+
+## Technology
+
+- [NATIX Technology](https://docs.natix.network/whitepaper/natix-technology.md)
+- [NATIX Vision SDK (Privacy-Preserving)](https://docs.natix.network/whitepaper/natix-technology/natix-vision-sdk-privacy-preserving.md)
+- [Vision Deploy Middleware](https://docs.natix.network/whitepaper/natix-technology/vision-deploy-middleware.md)
+
+## About
+
+- [About NATIX](https://docs.natix.network/whitepaper/about-natix.md)
+- [LEGAL DISCLAIMER](https://docs.natix.network/whitepaper/legal-disclaimer.md)
