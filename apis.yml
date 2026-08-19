@@ -33,7 +33,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://cdn.prod.website-files.com/65ae82ef7e37a0d48a19fd64/6a0415e2d5c945f8cebb5a77_meta%20image%20homepage%20natix.webp
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
