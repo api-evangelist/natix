@@ -2,19 +2,25 @@ generated: '2026-07-20'
 method: searched
 source: live probes of NATIX public hosts
 host: https://natix.network
-documents:
-- path: /.well-known/security.txt
-  status: 404
-- path: /.well-known/openid-configuration
-  status: 404
-- path: /.well-known/oauth-authorization-server
-  status: 404
-- path: /.well-known/api-catalog
-  status: 404
-- path: /.well-known/ai-plugin.json
-  status: 404
-notes: >-
-  Also probed https://docs.natix.network/.well-known/security.txt (404). No
-  .well-known discovery documents are published on any NATIX host. NATIX exposes
-  no public REST/GraphQL developer API; the product surface is consumer apps
-  (Drive&, VX360), a $NATIX token, staking, and a proprietary partner Vision SDK.
+notes: Also probed https://docs.natix.network/.well-known/security.txt (404). No .well-known discovery
+  documents are published on any NATIX host. NATIX exposes no public REST/GraphQL developer API; the product
+  surface is consumer apps (Drive&, VX360), a $NATIX token, staking, and a proprietary partner Vision
+  SDK.
+hosts:
+- host: https://natix.network
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+x-shape-fix:
+  converted: '2026-08-20'
+  from: documents
+  note: Rewritten into hosts[] -> documents[], the only shape well_known_docs() in score.rb reads. A served
+    .well-known surface recorded in any other shape scores as absent.
